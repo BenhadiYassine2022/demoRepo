@@ -8,3 +8,5 @@ editing from github using pull2
 
 
 editing from local git repo
+
+edit temp and merge
