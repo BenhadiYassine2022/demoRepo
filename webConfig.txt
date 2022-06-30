@@ -5,9 +5,3 @@ from aya branch
 editing from git hub
 editing from github using pull
 editing from github using pull2
-
-editing from local git repo
-
-edit temp and merge
-
-create branch for pull requests
