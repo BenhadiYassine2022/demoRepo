@@ -11,4 +11,4 @@ editing from local git repo
 
 edit temp and merge
 
-create branch for pull request
+create branch for pull requests
